@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="82" viewBox="0 0 118 82">
+    <defs>
+        <linearGradient id="prefix__a" x1="52.536%" x2="52.536%" y1="-42.716%" y2="178.212%">
+            <stop offset="0%" stop-color="#CACAC8"/>
+            <stop offset="100%" stop-color="#2F2F2F"/>
+        </linearGradient>
+        <linearGradient id="prefix__c" x1="63.35%" x2="39.135%" y1="55.445%" y2="44.555%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__e" x1="50%" x2="50%" y1="100%" y2="9.021%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__f" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__g" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__h" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__i" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__j" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__k" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__l" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__m" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__n" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__o" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <linearGradient id="prefix__p" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FCA42D"/>
+            <stop offset="100%" stop-color="#FFCB07"/>
+        </linearGradient>
+        <filter id="prefix__b" width="185.7%" height="322.2%" x="-42.9%" y="-111.1%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="10"/>
+        </filter>
+        <filter id="prefix__d" width="300%" height="300%" x="-100%" y="-100%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="5"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(10)">
+        <rect width="70" height="27" x="14" y="30" fill="url(#prefix__a)" filter="url(#prefix__b)" opacity=".577" rx="13.5"/>
+        <rect width="100" height="33" y="19" fill="url(#prefix__c)" fill-rule="nonzero" rx="16.5"/>
+        <text fill="#FFF" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="12" font-weight="500">
+            <tspan x="36.267" y="40">Afternoon</tspan>
+        </text>
+        <g fill-rule="nonzero">
+            <circle cx="18.5" cy="24.5" r="7.5" fill="#000" filter="url(#prefix__d)"/>
+            <circle cx="18.737" cy="18.737" r="12.22" fill="url(#prefix__e)"/>
+            <path fill="url(#prefix__f)" d="M18.737 4.888c.45 0 .815-.365.815-.815V.815c0-.45-.365-.815-.815-.815-.45 0-.814.365-.814.815v3.258c0 .45.364.815.814.815zM18.737 32.587c-.45 0-.814.364-.814.814v3.259c0 .45.364.815.814.815.45 0 .815-.365.815-.815V33.4c0-.45-.365-.814-.815-.814z"/>
+            <path fill="url(#prefix__g)" d="M36.66 17.923H33.4c-.45 0-.814.364-.814.814 0 .45.364.815.814.815h3.259c.45 0 .815-.365.815-.815 0-.45-.365-.814-.815-.814z"/>
+            <path fill="url(#prefix__h)" d="M4.888 18.737c0-.45-.365-.814-.815-.814H.815c-.45 0-.815.364-.815.814 0 .45.365.815.815.815h3.258c.45 0 .815-.365.815-.815z"/>
+            <path fill="url(#prefix__i)" d="M10.7 6.446c.146.252.415.408.707.407.143 0 .284-.037.407-.11.39-.224.523-.722.298-1.112l-1.629-2.822c-.227-.388-.727-.518-1.115-.29-.384.225-.516.717-.296 1.105L10.7 6.446z"/>
+            <path fill="url(#prefix__j)" d="M26.775 31.029c-.228-.388-.727-.518-1.115-.29-.384.225-.516.717-.296 1.105l1.629 2.822c.146.252.416.407.707.407.143 0 .284-.037.408-.11.39-.224.523-.722.298-1.112l-1.631-2.822z"/>
+            <path fill="url(#prefix__k)" d="M31.436 12.22c.143 0 .284-.037.408-.11l2.822-1.628c.398-.21.552-.701.344-1.1-.209-.399-.701-.553-1.1-.344-.02.01-.04.022-.06.034l-2.821 1.63c-.39.224-.523.723-.298 1.112.145.252.414.408.705.408v-.002z"/>
+            <path fill="url(#prefix__l)" d="M5.631 25.364l-2.822 1.629c-.39.225-.523.723-.298 1.113.145.252.414.407.705.407.143 0 .284-.037.408-.109l2.822-1.63c.398-.208.552-.7.344-1.099-.209-.398-.701-.553-1.1-.344-.02.01-.04.022-.06.034l.001-.001z"/>
+            <path fill="url(#prefix__m)" d="M2.809 10.481l2.822 1.63c.123.071.263.11.406.109.45 0 .814-.365.814-.815 0-.29-.155-.56-.407-.705L3.622 9.07c-.38-.24-.883-.129-1.125.25-.24.38-.129.884.25 1.125.02.013.04.024.06.035l.002.001z"/>
+            <path fill="url(#prefix__n)" d="M34.666 26.993l-2.822-1.63c-.38-.24-.884-.128-1.125.251-.241.38-.13.883.25 1.125l.06.034 2.822 1.63c.124.071.264.11.407.109.45 0 .815-.365.815-.815 0-.291-.155-.56-.407-.706v.002z"/>
+            <path fill="url(#prefix__o)" d="M25.662 6.744c.124.072.264.11.407.109.292 0 .561-.155.707-.407l1.63-2.822c.222-.391.085-.889-.306-1.111-.387-.22-.88-.088-1.105.296l-1.63 2.822c-.225.39-.092.887.297 1.113z"/>
+            <path fill="url(#prefix__p)" d="M11.813 30.73c-.39-.224-.888-.09-1.113.299L9.07 33.85c-.224.39-.091.888.299 1.113.123.072.264.11.407.109.292 0 .561-.155.707-.407l1.63-2.822c.224-.39.09-.888-.3-1.113z"/>
+        </g>
+    </g>
+</svg>
